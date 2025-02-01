@@ -16,7 +16,7 @@ https://drive.google.com/drive/u/0/folders/1vMnlvdhTzNVR9WItjsn1ldZWnYsL4Aec
 
 Ensure the file paths match your Google Drive structure before running the notebook.
 
-# Methodology
+## Methodology
 
 Data Collection: Aggregation of multiple sources including satellite precipitation data, elevation models, and socio-demographic indices.
 
