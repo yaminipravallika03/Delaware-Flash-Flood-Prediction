@@ -11,7 +11,8 @@ The dataset includes:
 - **FEMA Flood Maps** (Public Data)
 
 📌 **Data Access**:  
-Since data is stored in Google Drive, download it manually using the provided links in the notebook.
+Since data is stored in Google Drive, download it manually (links are also provided in the notebook).
+https://drive.google.com/drive/u/0/folders/1vMnlvdhTzNVR9WItjsn1ldZWnYsL4Aec
 
 ## Methodology
 - **Feature Engineering**: Data preprocessing and interpolation for flood-risk assessment.
