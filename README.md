@@ -14,10 +14,21 @@ The dataset includes:
 Since data is stored in Google Drive, download it manually (links are also provided in the notebook).
 https://drive.google.com/drive/u/0/folders/1vMnlvdhTzNVR9WItjsn1ldZWnYsL4Aec
 
-## Methodology
-- **Feature Engineering**: Data preprocessing and interpolation for flood-risk assessment.
-- **Model Used**: Decision Tree Classifier with GridSearchCV for hyperparameter tuning.
-- **Evaluation Metrics**: Accuracy, Precision, Recall, Confusion Matrix.
+Ensure the file paths match your Google Drive structure before running the notebook.
+
+# Methodology
+
+Data Collection: Aggregation of multiple sources including satellite precipitation data, elevation models, and socio-demographic indices.
+
+Preprocessing: Handling missing data, normalizing values, and merging spatial datasets.
+
+Feature Engineering: Creation of relevant flood risk indicators from precipitation, elevation, and land-use features.
+
+Model Selection: Implementing and evaluating decision trees, random forests, and support vector machines.
+
+Hyperparameter Tuning: GridSearchCV applied to optimize the best-performing model.
+
+Evaluation Metrics: Accuracy, Precision, Recall, Confusion Matrix.
 
 ## Files in This Repository
 - `Delaware Flash Flood.ipynb` - Jupyter Notebook with model training and results.
