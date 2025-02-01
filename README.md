@@ -28,3 +28,11 @@ https://drive.google.com/drive/u/0/folders/1vMnlvdhTzNVR9WItjsn1ldZWnYsL4Aec
    ```bash
    git clone https://github.com/yaminipravallika03/Delaware-Flash-Flood-Prediction.git
    ```
+2. Mount Google Drive in Google Colab:
+``` bash
+from google.colab import drive
+drive.mount('/content/drive')
+```
+3. Download the dataset and update file paths to match your Google Drive structure.
+
+4. Run the notebook in Google Colab or Jupyter Notebook.
